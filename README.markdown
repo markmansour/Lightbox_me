@@ -1,3 +1,8 @@
+## Changes from the main repository
+I needed pull request 61 which updates Lightbox_me to be compatible with jQuery 1.9.  So I created this fork.  It's really just for me.
+
+## Standard readme
+
 jquery.lightbox_me.js
 version 2.2
 
